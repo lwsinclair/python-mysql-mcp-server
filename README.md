@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bensonhe-python-mysql-mcp-server-badge.png)](https://mseep.ai/app/bensonhe-python-mysql-mcp-server)
+
 # MySQL MCP Server
 
 [English](#english) | [中文](#中文)
